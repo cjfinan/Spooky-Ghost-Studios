@@ -1,0 +1,36 @@
+div a{
+    text-decoration: none;
+}
+
+#title{
+    font-size: 30px;
+    margin-left: 10px;
+}
+
+#slogan{
+    font-size: 90px;
+    text-align: center;
+    margin-top: 300px;
+}
+
+#portfolio-text, #project-text{
+    text-decoration: none;
+    color: black;
+}
+
+.link-row{
+    padding-top: 60px;
+    font-size: 30px;
+}
+
+.underline{
+    height: 2px;
+    width: 100px;
+    background: black;
+    margin: auto;
+    margin-top: 20px;
+}
+
+.home-option{
+    padding-top: 20px;
+}
